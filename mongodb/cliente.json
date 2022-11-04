@@ -1,0 +1,29 @@
+[
+	{
+		"id_cliente" : 1,
+		"nome" : "shayllon edward",
+		"email" : "shayllon@.com.br",
+		"cpf" : "12345678910",
+		"nasc" : 20190712,
+		"contato" : "81999999999",
+		"endereco" : "rua do amor,numero:4"
+	},
+	{
+		"id_cliente" : 2,
+		"nome" : "marley lorenzo",
+		"email" : "marley@.com.br",
+		"cpf" : "09876543210",
+		"nasc" : 20201017,
+		"contato" : "81988888888",
+		"endereco" : "rua das trelas ,numero:8"
+	},
+	{
+		"id_cliente" : 3,
+		"nome" : "miley ferreira",
+		"email" : "miley@.com.br",
+		"cpf" : "65432178901",
+		"nasc" : 20140115,
+		"contato" : "81977777777",
+		"endereco" : "rua dos coelhinhos,numero:7"
+	}
+]

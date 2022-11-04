@@ -1,0 +1,17 @@
+[
+	{
+		"id_periodo" : 1,
+		"duracao_da_viagem" : "10",
+		"id_passageiro" : 1
+	},
+	{
+		"id_periodo" : 2,
+		"duracao_da_viagem" : "15",
+		"id_passageiro" : 2
+	},
+	{
+		"id_periodo" : 3,
+		"duracao_da_viagem" : "30",
+		"id_passageiro" : 3
+	}
+]

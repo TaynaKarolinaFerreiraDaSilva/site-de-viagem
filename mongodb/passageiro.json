@@ -1,0 +1,23 @@
+[
+	{
+		"id_passeigeiro" : 1,
+		"adulto" : 24,
+		"menores" : null,
+		"tipo_da_classe" : "executiva bussines",
+		"id_classe" : 1
+	},
+	{
+		"id_passeigeiro" : 2,
+		"adulto" : null,
+		"menores" : 17,
+		"tipo_da_classe" : "premium economica",
+		"id_classe" : 2
+	},
+	{
+		"id_passeigeiro" : 3,
+		"adulto" : 34,
+		"menores" : null,
+		"tipo_da_classe" : "economica",
+		"id_classe" : 3
+	}
+]
