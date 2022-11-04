@@ -1,0 +1,26 @@
+[
+	{
+		"id_classes" : 1,
+		"economica" : null,
+		"executiva bussines" : "shayllon",
+		"primeira classe" : null,
+		"premium economica" : null,
+		"id_destino" : 1
+	},
+	{
+		"id_classes" : 2,
+		"economica" : null,
+		"executiva bussines" : "",
+		"primeira classe" : null,
+		"premium economica" : "marley",
+		"id_destino" : 2
+	},
+	{
+		"id_classes" : 3,
+		"economica" : "miley",
+		"executiva bussines" : null,
+		"primeira classe" : null,
+		"premium economica" : null,
+		"id_destino" : 3
+	}
+]

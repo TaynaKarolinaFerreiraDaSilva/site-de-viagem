@@ -1,0 +1,23 @@
+[
+	{
+		"id_destino" : 1,
+		"ida_e_volta" : "nova york",
+		"ida" : null,
+		"multidestino" : null,
+		"id_cliente" : 1
+	},
+	{
+		"id_destino" : 2,
+		"ida_e_volta" : "",
+		"ida" : "florida",
+		"multidestino" : null,
+		"id_cliente" : 2
+	},
+	{
+		"id_destino" : 3,
+		"ida_e_volta" : null,
+		"ida" : null,
+		"multidestino" : "rio de janeiro",
+		"id_cliente" : 3
+	}
+]
